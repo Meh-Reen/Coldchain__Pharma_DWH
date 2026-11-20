@@ -60,8 +60,9 @@ Edit WIN_PROJ and WIN_PY in the DAG to match your machine.
 
 ## Group members
 
-- Mehreen Faisal - ID: (add)
-- (Member 2) - ID: (add)
-- (Member 3) - ID: (add)
+- Mehreen Faisal (36221)
+- Areesha Zubair (36231)
+- Hafsa Mustafa (36230)
 
-Course: (add course name), Phase 1
+Phase 1
+
