@@ -1,0 +1,7 @@
+segment,rnk,genericname,therapeuticclass,units,revenue_usd
+Fast-moving,1,Insulin Glargine,Long-acting insulin,4956.0,245712.3
+Fast-moving,2,Semaglutide,GLP-1 receptor agonist,4083.0,490526.92
+Fast-moving,3,Insulin Aspart,Rapid-acting insulin,4048.0,195600.2
+Slow-moving,1,Insulin Aspart,Rapid-acting insulin,4048.0,195600.2
+Slow-moving,2,Semaglutide,GLP-1 receptor agonist,4083.0,490526.92
+Slow-moving,3,Insulin Glargine,Long-acting insulin,4956.0,245712.3

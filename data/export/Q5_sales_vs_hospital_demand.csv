@@ -1,0 +1,16 @@
+genericname,therapeuticclass,sold_packs,requested_packs,received_packs,hospital_fill_rate_pct
+Mesalazine,Intestinal anti-inflammatory,16107.0,99406.0,92078.0,92.63
+Amoxicillin,Penicillin antibiotic,15444.0,71438.0,66190.0,92.65
+Salbutamol,Short-acting beta-2 agonist,15118.0,85032.0,78922.0,92.81
+Empagliflozin,SGLT2 inhibitor,14930.0,91699.0,84575.0,92.23
+Duloxetine,SNRI antidepressant,14668.0,68724.0,63753.0,92.77
+Azithromycin,Macrolide antibiotic,14649.0,78667.0,72875.0,92.64
+Lactulose,Osmotic laxative,14199.0,93795.0,87335.0,93.11
+Omeprazole,Proton-pump inhibitor,14091.0,59658.0,55123.0,92.4
+Esomeprazole,Proton-pump inhibitor,13641.0,65791.0,61079.0,92.84
+Levofloxacin,Fluoroquinolone antibiotic,13476.0,111810.0,103358.0,92.44
+Bisoprolol,Beta blocker,13321.0,129847.0,120557.0,92.85
+Celecoxib,Selective COX-2 inhibitor,13214.0,141196.0,130335.0,92.31
+Gliclazide MR,Sulfonylurea,13098.0,78870.0,72950.0,92.49
+Metformin,Biguanide,12740.0,71740.0,66779.0,93.08
+Fluoxetine,SSRI antidepressant,11675.0,59085.0,54776.0,92.71
