@@ -62,7 +62,7 @@ Edit WIN_PROJ and WIN_PY in the DAG to match your machine.
 
 - Mehreen Faisal (36221)
 - Areesha Zubair (36231)
-- Hafsa Mustafa (36230)
 
 Phase 1
+
 
