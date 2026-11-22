@@ -9,7 +9,7 @@ Phase 1 covers layers 1-5: data generation, ingestion (batch + streaming), stora
 | Path | What it is |
 |---|---|
 | `docs/Phase.1.Report.pdf` | Phase 1 report (dashboards and Airflow design) |
-| `docs/Data_Generation_Report.pdf` | Data generation methodology and statistics |
+| `docs/Data_Generation_Layer.pdf` | Data generation methodology and statistics |
 | `docs/SDI.Excel.xlsx` | SDI workbook (requirements, OLTP, dimensions, facts, star schema) |
 | `scripts/generator.py` | Oversampling layer: `python scripts\generator.py <1\|2\|3>` |
 | `scripts/ingest_api.py` | Ingestion API (port 8008): `POST /ingest {"file": "..."}` |
@@ -32,3 +32,4 @@ Phase 1 covers layers 1-5: data generation, ingestion (batch + streaming), stora
 
 ## Data volumes
 Original: 500,000 sales rows and 27,216 hospital-demand rows. Each refresh adds one quarter (41,667 sales, 2,268 hospital rows). After two refreshes: 583,334 and 31,752 rows.
+
