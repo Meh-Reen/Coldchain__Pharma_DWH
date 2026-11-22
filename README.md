@@ -1,7 +1,8 @@
 ﻿# Pharma Cold-Chain Data Warehouse (SDI) - Phase 1
 
-**Course:** Data Analytics & Warehousing (CSE 609), Dr Tariq Mahmood
-**Group:** Mehreen Faisal (36221), Areesha Zubair (36231)
+**Course:** Data Analytics & Warehousing (CSE 609)
+
+**Instructor:** Dr Tariq Mahmood
 
 Phase 1 covers layers 1-5: data generation, ingestion (batch + streaming), storage and staging (Postgres), transformation and modeling (DuckDB star schema), and the analytical query layer with optimisation. Dashboards are in Grafana.
 
@@ -40,3 +41,4 @@ https://drive.google.com/file/d/1Q38kpiDYqMACs55ssaEwmwAFxXikdaOT/view?usp=shari
 ## Group Members
 - Mehreen Faisal (36221)
 - Areesha Zubair (36231)
+
