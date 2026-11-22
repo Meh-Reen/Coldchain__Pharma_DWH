@@ -1,0 +1,5 @@
+refresh,file,rows,period_start,period_end,min_date,max_date,generated_at
+1,05_pharmacy_sales_data_refresh1.csv,41667,2026-01-01,2026-03-31,2026-01-01,2026-03-31,2026-11-22 16:02:37
+1,06_hospital_demand_data_refresh1.csv,2268,2026-01-01,2026-03-31,2026-01-01,2026-03-01,2026-11-22 16:02:37
+2,05_pharmacy_sales_data_refresh2.csv,41667,2026-04-01,2026-06-30,2026-04-01,2026-06-30,2026-11-22 17:08:31
+2,06_hospital_demand_data_refresh2.csv,2268,2026-04-01,2026-06-30,2026-04-01,2026-06-01,2026-11-22 17:08:31
