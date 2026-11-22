@@ -33,3 +33,6 @@ Phase 1 covers layers 1-5: data generation, ingestion (batch + streaming), stora
 ## Data volumes
 Original: 500,000 sales rows and 27,216 hospital-demand rows. Each refresh adds one quarter (41,667 sales, 2,268 hospital rows). After two refreshes: 583,334 and 31,752 rows.
 
+
+## Demo video
+https://drive.google.com/file/d/1Q38kpiDYqMACs55ssaEwmwAFxXikdaOT/view?usp=sharing
